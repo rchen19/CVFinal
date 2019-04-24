@@ -15,6 +15,3 @@ Weights file "model5epochweights2_40kneg_noresize_aug20_minus_mean.h5" is used f
 ## Video Links
 Result video: https://youtu.be/e7xge9eWlSY
 Backup link: https://1drv.ms/v/s!AlUiFxjxy5SQhP5YHjsNqNVM0qX7QQ
-
-Presentation video: https://youtu.be/EE6ZivHLLik
-Backup Link: https://1drv.ms/v/s!AlUiFxjxy5SQhP5ZNkaCdf66iw5NRg
